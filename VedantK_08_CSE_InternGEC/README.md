@@ -1,5 +1,3 @@
-Based on your detailed internship report and the file contents you’ve shared, here’s a professional and **awesome `README.md`** file tailored for your project repository. This README highlights your work on the **JEE Saral** and **NEET Saral** applications during your internship at Gurukrupa Educational Consultancy.
-
 ---
 
 # 🎓 Educational Consultancy Apps – Internship Project
